@@ -31,7 +31,7 @@ $ xhost +
 - get this repository
 ~~~
 $ cd ${WORK}
-$ git clone https://github.com/HidetoKimura/ivi.wayland.sdk.git
+$ git clone https://github.com/pub10cloud/ivi.wayland.sdk.git
 $ cd ivi.wayland.sdk
 ~~~
 
