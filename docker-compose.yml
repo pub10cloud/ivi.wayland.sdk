@@ -17,6 +17,4 @@ services:
       - /run/user:/run/user
       - /home/${USER}/${WORK_DIR}:/home/user/work
     ports:
-      - 49152:49152
-
-
+      - 49152:49152/udp
